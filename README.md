@@ -2,28 +2,21 @@
 
 ## Basic info
 
-Male, 29
+29 male
 
 Currently living in Wrocław
 
-Master of science, graduated at __Wroclaw University of Technology__ in Civil Engineering speciality.
+Master of science, graduated at __Wroclaw University of Technology__ in Civil Engineering speciality. 
 
 ## What I'm looking for
 
-I have decided to take my chance in IT technology and decided to learn and study front-end technologies: JavaScript, CSS, React, TypeScript. My goal is to became a junior developer. 
-
-After just a small glimpse into front-end world I have already found out that this is something I could do, preferably, and my goal is to be part of IT world sometimes.
+After 3 years as a civil engineer, designing roads here and there, I realized how much of my attention is actually focused on the layout, color schemes, and visual style of almost every piece of document I am producing. This was the fun part of my work. Where else would I be able to do this even more? Therefore I've decided to take my first steps in IT world. Immediately my interest drifted towards frontend and webdev. My goal is to became a junior JS/React developer someday. 
 
 ## Fields of interest
 
-JavaScript / TypeScript
-
-CSS
-
-React
-
-Civil Engineering
-
-Math
-
-TeX/Latex
+- JavaScript / TypeScript
+- CSS
+- React
+- Civil Engineering
+- Math
+- TeX/Latex
