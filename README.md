@@ -35,6 +35,8 @@ live site: [cmr211-fem-space-tourism-website.netlify.app](https://cmr211-fem-spa
 
 ### frontendmentor.io Flags App
 
+![](https://github.com/CMR211/fem-flags-app/blob/master/screenshots/light-home.png?raw=true)
+
 repository: [fem-flags-app](https://www.github.com/cmr211/fem-flags-app)
 
 live site: [cmr211-fem-flags-app.netlify.app](https://cmr211-fem-flags-app.netlify.app/)
