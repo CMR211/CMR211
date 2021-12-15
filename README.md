@@ -27,7 +27,7 @@ So far I have done two projects that I am confident enough to showcase them. The
 
 ### frontendmentor.io Space Tourism website
 
-[](../fem-space-tourism-website/screenshots/desktop-destination.png)
+![](https://github.com/CMR211/fem-space-tourism-website/blob/e3a37fc0f4bf514d5c92c4c74794170538431ab4/screenshots/desktop-destination.png?raw=true)
 
 repository: [fem-space-tourism-website](https://www.github.com/cmr211/fem-space-tourism-website)
 
