@@ -27,10 +27,14 @@ So far I have done two projects that I am confident enough to showcase them. The
 
 ### frontendmentor.io Space Tourism website
 
+[](../fem-space-tourism-website/screenshots/desktop-destinations.png)
+
 repository: [fem-space-tourism-website](https://www.github.com/cmr211/fem-space-tourism-website)
+
 live site: [cmr211-fem-space-tourism-website.netlify.app](https://cmr211-fem-space-tourism-website.netlify.app/)
 
 ### frontendmentor.io Flags App
 
 repository: [fem-flags-app](https://www.github.com/cmr211/fem-flags-app)
+
 live site: [cmr211-fem-flags-app.netlify.app](https://cmr211-fem-flags-app.netlify.app/)
