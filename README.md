@@ -10,16 +10,18 @@ Master of science, graduated at __Wroclaw University of Technology__ in Civil En
 
 ## What I'm looking for
 
-After 3 years as a civil engineer, designing roads here and there, I realized how much of my attention is actually focused on the layout, color schemes, and visual style of almost every piece of document I am producing. This was the fun part of my work, so I wanted to do more similar tasks - naturally, first thing that came into my mind was web development. And so I started learning html, css, js, and then react was added. And it clicked. I really enjoy doing all these projects and learning new stuff, so much that I do it in my free time as a form of relaxation. 
+After 3 years as a civil engineer, designing roads and documentation, I realized how much of my attention an effort is actually focused on the layout, color schemes, and visual style of almost every piece of document I'been working on. This was the fun part of my work, so I wanted to do more similar tasks - naturally, first thing that came into my mind was web development. And so I started learning html, css, js, and then react was added. And it clicked. I really enjoy doing all these projects and learning new stuff, so much that I do it in my free time as a form of relaxation. 
 
-## Fields of interest
+## My skills and fields of interest
 
-- JavaScript / TypeScript
-- CSS / Sass
+- JavaScript (ES6+)
+- CSS / SCSS
 - React
+- UI/UX design, design principes
 - Civil Engineering
 - Math
-- TeX/Latex
+- Functional programming, lambda calculus
+- TeX/LaTeX
 
 ## Portfolio
 
