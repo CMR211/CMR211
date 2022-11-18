@@ -40,11 +40,13 @@ Some projects of mine
   
 - **code wars**
 
-  `javascript` `nodeJS`
+  `javascript` `nodeJS` `mocha` `chai`
   
   I like to take code wars challenges (or as they call them - katas). Some of the problems are very interesting and fun to solve!
   
-  https://github.com/CMR211/code-wars
+  - My profile: https://www.codewars.com/users/CMR211
+  
+  - Repository with some of the solved problems: https://github.com/CMR211/code-wars 
   
 - **coding challenge #1: Conway's game of life**
 
