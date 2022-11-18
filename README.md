@@ -1,44 +1,41 @@
-# Bartosz Surma
+---
 
-## Basic info
+Hello there!
 
-29 male
+I am aspiring web developer. Learning React and Typescript. Doing projects for fun. In love with javascript.
 
-Currently living in Wrocław
+---
 
-Master of science, graduated at __Wroclaw University of Technology__ in Civil Engineering speciality. 
+Some projects of mine
 
-## What I'm looking for
+- current open project: **e-commerce plant website**
 
-After 3 years as a civil engineer, designing roads and documentation, I realized how much of my attention an effort is actually focused on the layout, color schemes, and visual style of almost every piece of document I'been working on. This was the fun part of my work, so I wanted to do more similar tasks - naturally, first thing that came into my mind was web development. And so I started learning html, css, js, and then react was added. And it clicked. I really enjoy doing all these projects and learning new stuff, so much that I do it in my free time as a form of relaxation. 
+  `react` `next` `typescript` `mongoDB` `express` `SCSS modules`
 
-## My skills and fields of interest
+  https://github.com/CMR211/e-commerce-ts
 
-- JavaScript (ES6+)
-- CSS / SCSS
-- React
-- UI/UX design, design principes
-- Civil Engineering
-- Math
-- Functional programming, lambda calculus
-- TeX/LaTeX
+- **fullstack voting app**
 
-## Portfolio
+  `vanilla JS` `mongoDB` `express`
 
-So far I have done two projects that I am confident enough to showcase them. These are hosted on netlify.
+  Made for a friend after Mark Zuckenberg removed polls from facebook
+  
+  https://github.com/CMR211/voting-app
+  
+- **pokemon web app**
 
-### frontendmentor.io Space Tourism website
+  `react` `react-router` `pokemon-api`
+  
+  Fun side project - main challange was to recreate existing design I found on the web
+  
+  https://github.com/CMR211/pokemon-battle-react
+  
+- **advent of code 2021**
 
-![](https://github.com/CMR211/fem-space-tourism-website/blob/e3a37fc0f4bf514d5c92c4c74794170538431ab4/screenshots/desktop-destination.png?raw=true)
-
-repository: [fem-space-tourism-website](https://www.github.com/cmr211/fem-space-tourism-website)
-
-live site: [cmr211-fem-space-tourism-website.netlify.app](https://cmr211-fem-space-tourism-website.netlify.app/)
-
-### frontendmentor.io Flags App
-
-![](https://github.com/CMR211/fem-flags-app/blob/master/screenshots/light-home.png?raw=true)
-
-repository: [fem-flags-app](https://www.github.com/cmr211/fem-flags-app)
-
-live site: [cmr211-fem-flags-app.netlify.app](https://cmr211-fem-flags-app.netlify.app/)
+  `javascript` `nodeJS`
+  
+  My struggle with 2021 [Advent of Code](https://adventofcode.com/2021) challanges. Did 14/25 days until I switched over to other projects :(
+  
+  https://github.com/CMR211/advent-of-code
+  
+  
